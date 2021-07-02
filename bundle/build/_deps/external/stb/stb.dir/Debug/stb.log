@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/CSC305/Assignemnt4/bundle/build/_deps/atlas-src/external/stb/CMakeLists.txt
+  stb_image.cpp
+  stb_image_resize.cpp
+  stb_image_write.cpp
+  正在生成代码...
+  stb.vcxproj -> C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-build\external\stb\Debug\stb.lib

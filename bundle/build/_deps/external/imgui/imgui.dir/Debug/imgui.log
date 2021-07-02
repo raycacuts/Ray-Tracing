@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/CSC305/Assignemnt4/bundle/build/_deps/atlas-src/external/imgui/CMakeLists.txt
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui_widgets.cpp
+  正在生成代码...
+  imgui.vcxproj -> C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-build\external\imgui\Debug\imgui.lib
