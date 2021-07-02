@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\core\Platform.hpp">
+      <Filter>include\atlas\core</Filter>
+    </None>
+    <None Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\core\Float.hpp">
+      <Filter>include\atlas\core</Filter>
+    </None>
+    <None Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\core\Functional.hpp">
+      <Filter>include\atlas\core</Filter>
+    </None>
+    <None Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\core\Timer.hpp">
+      <Filter>include\atlas\core</Filter>
+    </None>
+    <None Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\core\Filesystem.hpp">
+      <Filter>include\atlas\core</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{EB66B8F5-E03A-3445-8BDC-92AFFF0966D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\atlas">
+      <UniqueIdentifier>{5FF92A52-A632-3253-944D-0A6AFD5D78CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\atlas\core">
+      <UniqueIdentifier>{F66BB7F8-96C3-30C3-8378-768664136FCC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

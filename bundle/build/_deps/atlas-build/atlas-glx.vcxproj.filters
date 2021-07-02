@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\source\atlas\glx\GLSL.cpp">
+      <Filter>source\atlas\glx</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\source\atlas\glx\Context.cpp">
+      <Filter>source\atlas\glx</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\source\atlas\glx\ErrorCallback.cpp">
+      <Filter>source\atlas\glx</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\glx\GLSL.hpp">
+      <Filter>include\atlas\glx</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\glx\Buffer.hpp">
+      <Filter>include\atlas\glx</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\glx\Context.hpp">
+      <Filter>include\atlas\glx</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\glx\ErrorCallback.hpp">
+      <Filter>include\atlas\glx</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{EB66B8F5-E03A-3445-8BDC-92AFFF0966D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\atlas">
+      <UniqueIdentifier>{5FF92A52-A632-3253-944D-0A6AFD5D78CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\atlas\glx">
+      <UniqueIdentifier>{EA612074-B7DB-3EEF-9D86-67B6ECACE039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{2CB05CCB-6FCB-39D3-9D89-683F8060B7E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\atlas">
+      <UniqueIdentifier>{B7008D31-08E6-3CC9-AA6E-89B6D1B40EFF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\atlas\glx">
+      <UniqueIdentifier>{F9EE5EF0-8583-3BE9-B1EF-1C568225170D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

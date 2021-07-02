@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\source\atlas\gui\GUI.cpp">
+      <Filter>source\atlas\gui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\include\atlas\gui\GUI.hpp">
+      <Filter>include\atlas\gui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{EB66B8F5-E03A-3445-8BDC-92AFFF0966D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\atlas">
+      <UniqueIdentifier>{5FF92A52-A632-3253-944D-0A6AFD5D78CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\atlas\gui">
+      <UniqueIdentifier>{71334EBC-AE04-3634-8EBC-C9A219F4D0C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{2CB05CCB-6FCB-39D3-9D89-683F8060B7E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\atlas">
+      <UniqueIdentifier>{B7008D31-08E6-3CC9-AA6E-89B6D1B40EFF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\atlas\gui">
+      <UniqueIdentifier>{951434F6-6620-3911-B637-E8E916EB43F8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

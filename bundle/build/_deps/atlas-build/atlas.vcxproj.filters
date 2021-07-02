@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\source\atlas\Atlas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\CSC305\Assignemnt4\bundle\build\_deps\atlas-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{65879B47-21FF-3EC9-9556-191F413DBC8F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
