@@ -1,3 +1,3 @@
 # Ray-Tracing
 Simple ray tracing system
-![alt text](https://github.com/raycaacuts/Ray-Tracing/master/render.bmp?raw=true)
+![alt text](https://github.com/raycaacuts/Ray-Tracing/blob/main/render.bmp?raw=true)
