@@ -6,7 +6,7 @@ Simple Ray Tracing System
 </center>
 
 <center>
-<img src="raytrace_pinhole.bmp" width="500" height="500" class="center">
+<img src="render2.bmp" width="500" height="500" class="center">
 </center>
 
 <center>
